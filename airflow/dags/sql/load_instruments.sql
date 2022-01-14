@@ -1,0 +1,1 @@
+COPY public."Instrument" FROM '{{params.path}}' DELIMITER ';';
